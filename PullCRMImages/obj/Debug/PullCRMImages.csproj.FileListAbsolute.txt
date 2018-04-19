@@ -1,0 +1,9 @@
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\bin\Debug\PullCRMImages.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\bin\Debug\PullCRMImages.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\bin\Debug\PullCRMImages.pdb
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\obj\Debug\PullCRMImages.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\obj\Debug\PullCRMImages.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\obj\Debug\PullCRMImages.pdb
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\PullCRMImages\obj\Debug\PullCRMImages.csprojResolveAssemblyReference.cache
