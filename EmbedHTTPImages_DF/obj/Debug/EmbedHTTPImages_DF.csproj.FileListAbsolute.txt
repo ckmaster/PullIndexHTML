@@ -1,0 +1,6 @@
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\bin\Debug\EmbedHTTPImages_DF.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\bin\Debug\EmbedHTTPImages_DF.exe
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\bin\Debug\EmbedHTTPImages_DF.pdb
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\obj\Debug\EmbedHTTPImages_DF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\obj\Debug\EmbedHTTPImages_DF.exe
+C:\Users\Administrator.ESS-102466\source\repos\EmbedHTTPImages_DF\EmbedHTTPImages_DF\obj\Debug\EmbedHTTPImages_DF.pdb
