@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PullCRMImages", "PullCRMImages\PullCRMImages.csproj", "{08AE8E57-1135-4A49-AC85-758B88D57657}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B24F0CF1-86DA-41C0-A467-6CA033D45FFA}"
-	ProjectSection(SolutionItems) = preProject
-		RemoveExtraTags.cs = RemoveExtraTags.cs
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
