@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace RemoveExtraTags
+namespace RemoteExtraTags
 {
 
     class Program
@@ -21,10 +21,10 @@ namespace RemoveExtraTags
                 string newName = s.Replace(".html", "_new.html");
                 WriteDocument(lines, newName);
             }
-
+            
         }
 
-        private static List<string> ReadDocument (string sourceFile)
+        private static List<string> ReadDocument(string sourceFile)
         {
             List<string> lines = new List<string>();
             using (StreamReader sr = new StreamReader(sourceFile))
@@ -38,11 +38,11 @@ namespace RemoveExtraTags
             return lines;
         }
 
-        private static void WriteDocument (List<string> lines, string newName)
+        private static void WriteDocument(List<string> lines, string newName)
         {
             using (StreamWriter sw = new StreamWriter(newName))
             {
-                for (int i = 6; i < lines.Count - 4; i++)
+                for (int i = 6; i < lines.Count-4; i++)
                 {
                     sw.WriteLine(lines[i]);
                 }

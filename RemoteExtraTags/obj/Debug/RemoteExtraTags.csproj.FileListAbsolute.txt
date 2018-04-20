@@ -1,0 +1,7 @@
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\bin\Debug\RemoteExtraTags.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\bin\Debug\RemoteExtraTags.exe
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\bin\Debug\RemoteExtraTags.pdb
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\obj\Debug\RemoteExtraTags.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\obj\Debug\RemoteExtraTags.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\obj\Debug\RemoteExtraTags.exe
+C:\Users\Administrator.ESS-102466\source\repos\RemoteExtraTags\RemoteExtraTags\obj\Debug\RemoteExtraTags.pdb

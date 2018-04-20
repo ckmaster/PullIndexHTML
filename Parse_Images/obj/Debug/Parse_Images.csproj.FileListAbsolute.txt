@@ -1,0 +1,7 @@
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\obj\Debug\Parse_Images.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\obj\Debug\Parse_Images.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\bin\Debug\Parse_Images.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\bin\Debug\Parse_Images.exe
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\bin\Debug\Parse_Images.pdb
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\obj\Debug\Parse_Images.exe
+C:\Users\Administrator.ESS-102466\source\repos\Parse_Images\Parse_Images\obj\Debug\Parse_Images.pdb
