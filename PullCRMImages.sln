@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmbedHTTPImages_DF", "Embed
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteExtraTags", "RemoteExtraTags\RemoteExtraTags.csproj", "{40641355-F077-4251-9816-40960208ED08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_Images", "Parse_Images\Parse_Images.csproj", "{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_Images", "..\Parse_Images\Parse_Images\Parse_Images.csproj", "{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
