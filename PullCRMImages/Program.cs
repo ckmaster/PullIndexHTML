@@ -26,7 +26,7 @@ namespace PullCRMImages
 
         static void Main (string[] args)
         {
-            string urlParameters = "/search?IW_FIELD_TEXT=*&IW_SORT=RELEVANCE&IW_BATCHSIZE=10&IW_INDEX=CRMKB";
+            string urlParameters = "/search?IW_FIELD_TEXT=Willis%20Knighton&IW_SORT=RELEVANCE&IW_BATCHSIZE=10&IW_INDEX=Cases";
             List<string[]> headers = new List<string[]>();
             headers.Add(new string[] { "Accept", "application/json" });
             HttpWebRequest request = BuildRequest(urlParameters, "GET", headers);

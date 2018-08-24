@@ -1,0 +1,6 @@
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\bin\Debug\CasesTrimToSummary.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\bin\Debug\CasesTrimToSummary.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\bin\Debug\CasesTrimToSummary.pdb
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\obj\Debug\CasesTrimToSummary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\obj\Debug\CasesTrimToSummary.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CasesTrimToSummary\obj\Debug\CasesTrimToSummary.pdb

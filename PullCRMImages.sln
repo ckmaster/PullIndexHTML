@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteExtraTags", "RemoteEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse_Images", "..\Parse_Images\Parse_Images\Parse_Images.csproj", "{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasesTrimToSummary", "CasesTrimToSummary\CasesTrimToSummary.csproj", "{82A6B38B-7704-4CA6-8816-4497819C2E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateCSVFromSummary", "CreateCSVFromSummary\CreateCSVFromSummary.csproj", "{AF0DCF4F-3F83-46BC-BB20-060C0A4BAEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +39,14 @@ Global
 		{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D0AAB0-88DC-46FB-8451-D4AE2529A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A6B38B-7704-4CA6-8816-4497819C2E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A6B38B-7704-4CA6-8816-4497819C2E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A6B38B-7704-4CA6-8816-4497819C2E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A6B38B-7704-4CA6-8816-4497819C2E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0DCF4F-3F83-46BC-BB20-060C0A4BAEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0DCF4F-3F83-46BC-BB20-060C0A4BAEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0DCF4F-3F83-46BC-BB20-060C0A4BAEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0DCF4F-3F83-46BC-BB20-060C0A4BAEDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

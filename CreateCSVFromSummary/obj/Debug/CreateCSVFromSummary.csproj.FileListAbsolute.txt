@@ -1,0 +1,7 @@
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\bin\Debug\CreateCSVFromSummary.exe.config
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\bin\Debug\CreateCSVFromSummary.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\bin\Debug\CreateCSVFromSummary.pdb
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\obj\Debug\CreateCSVFromSummary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\obj\Debug\CreateCSVFromSummary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\obj\Debug\CreateCSVFromSummary.exe
+C:\Users\Administrator.ESS-102466\source\repos\PullCRMImages\CreateCSVFromSummary\obj\Debug\CreateCSVFromSummary.pdb
